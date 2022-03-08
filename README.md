@@ -1,4 +1,4 @@
-#Project : Lending Club Case Study
+## Project : Lending Club Case Study
 > Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss).
 The credit loss is the amount of money lost by the lender when the borrower refuses to
 pay or runs away with the money owed.
@@ -17,9 +17,9 @@ for its portfolio and risk assessment.
 - Seaborn
 - matplotLib
 
-##Steps:
-Step1: Data Cleaning
-Step2: Univariate analysis
-Step3: Segmented Univariate analysis
-Step4: Bivariate/Multivariate analysis
-Step5: Results
+## Steps:
+- Step1: Data Cleaning
+- Step2: Univariate analysis
+- Step3: Segmented Univariate analysis
+- Step4: Bivariate/Multivariate analysis
+- Step5: Results
