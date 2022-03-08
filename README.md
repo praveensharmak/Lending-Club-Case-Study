@@ -16,3 +16,10 @@ for its portfolio and risk assessment.
 - Numpy
 - Seaborn
 - matplotLib
+
+##Steps:
+Step1: Data Cleaning
+Step2: Univariate analysis
+Step3: Segmented Univariate analysis
+Step4: Bivariate/Multivariate analysis
+Step5: Results
